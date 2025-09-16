@@ -60,3 +60,20 @@ It uses **Google Gemini AI** for text simplification and **EasyOCR** + **PyMuPDF
 ```bash
 git clone https://github.com/your-username/MediSimplify.git
 cd MediSimplify
+```
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Set up Gemini API Key
+
+Create a Streamlit secrets file:
+
+.streamlit/secrets.toml
+
+
+Add your Gemini API key:
+
+GEMINI_API_KEY = "your_api_key_here"
+
+4️⃣ Run the app
+streamlit run app.py
