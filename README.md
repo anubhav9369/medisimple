@@ -33,6 +33,9 @@ Website : https://medisimple.streamlit.app/
 
 ---
 
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/f4fdddad-d197-4b59-8049-bba6124bceb7" />
+
+---
 ## 🛠️ Tech Stack
 
 ### Core Framework
