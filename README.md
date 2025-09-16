@@ -33,7 +33,7 @@ Website : https://medisimple.streamlit.app/
 
 ---
 
-<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/d6328c8d-7ba6-4643-b0f8-2854bc2f9e04" />
+![WhatsApp Image 2025-09-16 at 16 50 58](https://github.com/user-attachments/assets/feac0a0b-cc30-4c92-8237-6a70befbca57)
 
 ---
 ## 🛠️ Tech Stack
