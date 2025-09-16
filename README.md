@@ -33,6 +33,8 @@ Website : https://medisimple.streamlit.app/
 
 ---
 
+Sample img : 
+
 ![WhatsApp Image 2025-09-16 at 16 50 58](https://github.com/user-attachments/assets/feac0a0b-cc30-4c92-8237-6a70befbca57)
 
 ---
