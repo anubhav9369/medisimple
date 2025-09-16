@@ -4,6 +4,8 @@ MediSimplify is an AI-powered Streamlit app that helps **translate complex medic
 
 It uses **Google Gemini AI** for text simplification and **EasyOCR** + **PyMuPDF** + **PyPDF2** for robust text extraction.
 
+
+Website : https://medisimple.streamlit.app/
 ---
 
 ## ✨ Features
