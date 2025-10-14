@@ -18,7 +18,7 @@ st.set_page_config(page_title="MediSimplify", layout="centered")
 try:
     api_key = st.secrets["GEMINI_API_KEY"]
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash')
     st.sidebar.success("✓ Gemini API connected successfully")
 except KeyError:
     st.error("Gemini API key not found. Please add it to your Streamlit secrets.")
