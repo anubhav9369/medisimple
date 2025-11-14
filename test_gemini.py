@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 
 # Option 1: Set API key directly (for testing)
-API_KEY = "AIzaSyCpoM__Ml6Hyh_0vV2blL2QQbLJcrszL6U"  # Replace with your actual key
+API_KEY = "AIzaSyA34zfb1WbcqcQlbjyp7JkcsQVa7YOrsYQ"  # Replace with your actual key
 
 # Option 2: Read from secrets file (uncomment to use)
 # try:
@@ -22,7 +22,7 @@ try:
     genai.configure(api_key=API_KEY)
     
     # Test with a simple request
-    model = genai.GenerativeModel('gemini-1.5-flash-latest')
+    model = genai.GenerativeModel('gemini-2.5-flash-lite')
     response = model.generate_content("Hello")
     print("SUCCESS: API key is valid!")
     print("Response:", response.text)
